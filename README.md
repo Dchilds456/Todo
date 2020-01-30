@@ -28,7 +28,7 @@ The following additional features are implemented:
 Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-
+https://github.com/Dchilds456/Todo/blob/master/walkthrough.gif
 
 GIF created with LiceCap.
 
