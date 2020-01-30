@@ -1,5 +1,4 @@
 # Todo
-# SimpleTodo
 Pre-work - CodePath TodoApp
 Listagram is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -29,7 +28,7 @@ The following additional features are implemented:
 Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-Video Walkthrough
+
 
 GIF created with LiceCap.
 
